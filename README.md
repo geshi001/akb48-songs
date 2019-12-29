@@ -1,6 +1,6 @@
 # List of Songs by AKB48 Group
 
-*This page is automatically generated according to [Request Hour 2020](https://www.akb48.co.jp/lp/request_hour/2020/songlist.html).*
+*This page is automatically generated based on [AKB48公式サイト｜AKB48グループ「リクエストアワー　セットリストベスト50 2020」](https://www.akb48.co.jp/lp/request_hour/2020/).*
 
 Index | Title | Group | YouTube
 ----- | ----- | ----- | -------
